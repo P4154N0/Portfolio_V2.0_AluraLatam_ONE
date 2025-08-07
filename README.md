@@ -13,10 +13,10 @@ El proyecto nació a partir de un diseño creado en **Figma**, el cual transform
 A continuación se muestran las comparativas:
 
 **Imagen 1 – Diseño original en Figma:**  
-![Diseño en Figma](./proyecto_figma/figma.png)
+![Diseño en Figma](./proyecto_figma/figma_original.png)
 
 **Imagen 2 – Versión desarrollada en HTML/CSS:**  
-![Versión Web V2.0](./proyecto_figma/resultado.png)
+![Versión Web V2.0](./proyecto_figma/version_web_v2.png)
 
 ---
 
